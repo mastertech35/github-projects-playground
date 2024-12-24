@@ -33,3 +33,6 @@ google-services.json
 *.hprof
 
 node_modules
+.DS_Store
+.tmp
+npm-debug.log
